@@ -1,0 +1,8 @@
+webbrowser
+opencv-python
+spotipy
+fer
+Pillow  
+ttkbootstrap   
+tkinter  ttk
+python-dotenv 
